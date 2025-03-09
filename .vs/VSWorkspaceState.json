@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\KetabKhoob",
+    "\\KetabKhoob\\Shop",
+    "\\KetabKhoob\\Shop\\Shop.Api",
+    "\\KetabKhoob\\Shop\\Shop.Api\\Controllers",
+    "\\KetabKhoob\\Shop\\Shop.Presentation.Facade",
+    "\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Sellers",
+    "\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Sellers\\Inventories",
+    "\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\SiteEntities",
+    "\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\SiteEntities\\ShippingMethods"
+  ],
+  "SelectedNode": "\\KetabKhoob\\Shop\\Shop.Api\\Controllers\\OrderController.cs",
+  "PreviewInSolutionExplorer": false
+}

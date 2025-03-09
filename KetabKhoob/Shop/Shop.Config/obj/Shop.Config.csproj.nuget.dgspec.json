@@ -1,0 +1,741 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Config\\Shop.Config.csproj": {}
+  },
+  "projects": {
+    "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Application\\Common.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Application\\Common.Application.csproj",
+        "projectName": "Common.Application",
+        "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Application\\Common.Application.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common\\Common.Domain\\Common.Domain.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common\\Common.Domain\\Common.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "HtmlSanitizer": {
+              "target": "Package",
+              "version": "[8.1.870, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.38, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Query\\Common.Query.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Query\\Common.Query.csproj",
+        "projectName": "Common.Query",
+        "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Query\\Common.Query.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Query\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common\\Common.Domain\\Common.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common\\Common.Domain\\Common.Domain.csproj",
+        "projectName": "Common.Domain",
+        "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common\\Common.Domain\\Common.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common\\Common.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop.Domain\\Shop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop.Domain\\Shop.Domain.csproj",
+        "projectName": "Shop.Domain",
+        "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop.Domain\\Shop.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common\\Common.Domain\\Common.Domain.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common\\Common.Domain\\Common.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Shop.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Shop.Application.csproj",
+        "projectName": "Shop.Application",
+        "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Shop.Application.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Application\\Common.Application.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Application\\Common.Application.csproj"
+              },
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop.Domain\\Shop.Domain.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop.Domain\\Shop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Config\\Shop.Config.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Config\\Shop.Config.csproj",
+        "projectName": "Shop.Config",
+        "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Config\\Shop.Config.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Config\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Shop.Application.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Shop.Application.csproj"
+              },
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj"
+              },
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Shop.Query.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Shop.Query.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
+        "projectName": "Shop.Infrastructure",
+        "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop.Domain\\Shop.Domain.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop.Domain\\Shop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj",
+        "projectName": "Shop.Presentation.Facade",
+        "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Application\\Common.Application.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Application\\Common.Application.csproj"
+              },
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Shop.Application.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Shop.Application.csproj"
+              },
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Shop.Query.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Shop.Query.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Shop.Query.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Shop.Query.csproj",
+        "projectName": "Shop.Query",
+        "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Shop.Query.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Query\\Common.Query.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Query\\Common.Query.csproj"
+              },
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common\\Common.Domain\\Common.Domain.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common\\Common.Domain\\Common.Domain.csproj"
+              },
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop.Domain\\Shop.Domain.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop.Domain\\Shop.Domain.csproj"
+              },
+              "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj": {
+                "projectPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Infrastructure\\Shop.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

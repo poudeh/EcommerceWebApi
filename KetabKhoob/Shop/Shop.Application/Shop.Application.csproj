@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Categories\AddChild\" />
+    <Folder Include="Categories\Edit\" />
+    <Folder Include="Categories\Remove\" />
+    <Folder Include="Comments\Delete\" />
+    <Folder Include="Orders\ChangeCount\" />
+    <Folder Include="Orders\IncreaseItemCount\" />
+    <Folder Include="Orders\SendOrder\" />
+    <Folder Include="Products\Create\" />
+    <Folder Include="Products\Edit\" />
+    <Folder Include="Roles\Edit\" />
+    <Folder Include="Sellers\Create\" />
+    <Folder Include="Sellers\DeleteInventory\" />
+    <Folder Include="SiteEntities\ShippingMethods\Create\" />
+    <Folder Include="SiteEntities\ShippingMethods\Edit\" />
+    <Folder Include="SiteEntities\ShippingMethods\Delete\" />
+    <Folder Include="SiteEntities\Sliders\Delete\" />
+    <Folder Include="Users\EditAddress\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common.Application\Common.Application.csproj" />
+    <ProjectReference Include="..\..\Shop.Domain\Shop.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

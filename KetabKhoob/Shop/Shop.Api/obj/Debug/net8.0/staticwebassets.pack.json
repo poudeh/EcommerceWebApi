@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Api\\wwwroot\\images\\Banners\\8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593.png",
+      "PackagePath": "staticwebassets\\images\\Banners\\8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shop.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shop.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Shop.Api.props",
+      "PackagePath": "build\\Shop.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Shop.Api.props",
+      "PackagePath": "buildMultiTargeting\\Shop.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Shop.Api.props",
+      "PackagePath": "buildTransitive\\Shop.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

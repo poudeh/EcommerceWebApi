@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.query\\sellers\\inventories\\getbyproductid\\getinventoriesbyproductidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|solutionrelative:shop\\shop.query\\sellers\\inventories\\getbyproductid\\getinventoriesbyproductidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C5AD5D-90E9-4CE0-9885-F40BF6C04956}|Common.Query\\Common.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\common.query\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C5AD5D-90E9-4CE0-9885-F40BF6C04956}|Common.Query\\Common.Query.csproj|solutionrelative:common.query\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.query\\sellers\\getbyid\\getsellerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|solutionrelative:shop\\shop.query\\sellers\\getbyid\\getsellerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.query\\products\\getbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|solutionrelative:shop\\shop.query\\products\\getbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.query\\products\\getbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|solutionrelative:shop\\shop.query\\products\\getbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.query\\products\\getbyslug\\getproductbyslugqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|solutionrelative:shop\\shop.query\\products\\getbyslug\\getproductbyslugqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.query\\products\\getbyslug\\getproductbyslugquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|solutionrelative:shop\\shop.query\\products\\getbyslug\\getproductbyslugquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A839BA0-8078-4337-BADF-2E090FB1E9C4}|Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.presentation.facade\\sellers\\inventories\\sellerinventoryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A839BA0-8078-4337-BADF-2E090FB1E9C4}|Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj|solutionrelative:shop\\shop.presentation.facade\\sellers\\inventories\\sellerinventoryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A839BA0-8078-4337-BADF-2E090FB1E9C4}|Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.presentation.facade\\sellers\\inventories\\isellerinventoryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A839BA0-8078-4337-BADF-2E090FB1E9C4}|Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj|solutionrelative:shop\\shop.presentation.facade\\sellers\\inventories\\isellerinventoryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A839BA0-8078-4337-BADF-2E090FB1E9C4}|Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.presentation.facade\\products\\productfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A839BA0-8078-4337-BADF-2E090FB1E9C4}|Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj|solutionrelative:shop\\shop.presentation.facade\\products\\productfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C375818-760E-4AF9-ABB9-2FB361245F5F}|Shop\\Shop.Api\\Shop.Api.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C375818-760E-4AF9-ABB9-2FB361245F5F}|Shop\\Shop.Api\\Shop.Api.csproj|solutionrelative:shop\\shop.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.application\\categories\\addchild\\addchildcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|solutionrelative:shop\\shop.application\\categories\\addchild\\addchildcategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.application\\categories\\addchild\\addchildcategorycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|solutionrelative:shop\\shop.application\\categories\\addchild\\addchildcategorycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.application\\categories\\addchild\\addchildcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|solutionrelative:shop\\shop.application\\categories\\addchild\\addchildcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.query\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|solutionrelative:shop\\shop.query\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.query\\products\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|solutionrelative:shop\\shop.query\\products\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C375818-760E-4AF9-ABB9-2FB361245F5F}|Shop\\Shop.Api\\Shop.Api.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C375818-760E-4AF9-ABB9-2FB361245F5F}|Shop\\Shop.Api\\Shop.Api.csproj|solutionrelative:shop\\shop.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.application\\orders\\additem\\addorderitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|solutionrelative:shop\\shop.application\\orders\\additem\\addorderitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.application\\orders\\checkout\\checkoutordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|solutionrelative:shop\\shop.application\\orders\\checkout\\checkoutordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.application\\orders\\checkout\\checkoutordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|solutionrelative:shop\\shop.application\\orders\\checkout\\checkoutordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.application\\orders\\additem\\addorderitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|solutionrelative:shop\\shop.application\\orders\\additem\\addorderitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.application\\products\\addimage\\addproductimagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|solutionrelative:shop\\shop.application\\products\\addimage\\addproductimagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.application\\products\\addimage\\addproductimagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|solutionrelative:shop\\shop.application\\products\\addimage\\addproductimagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.application\\products\\create\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|solutionrelative:shop\\shop.application\\products\\create\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.application\\products\\create\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|solutionrelative:shop\\shop.application\\products\\create\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A839BA0-8078-4337-BADF-2E090FB1E9C4}|Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.presentation.facade\\products\\iproductfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A839BA0-8078-4337-BADF-2E090FB1E9C4}|Shop\\Shop.Presentation.Facade\\Shop.Presentation.Facade.csproj|solutionrelative:shop\\shop.presentation.facade\\products\\iproductfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.query\\products\\dtos\\productfilterparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|solutionrelative:shop\\shop.query\\products\\dtos\\productfilterparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C5AD5D-90E9-4CE0-9885-F40BF6C04956}|Common.Query\\Common.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\common.query\\filter\\basefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C5AD5D-90E9-4CE0-9885-F40BF6C04956}|Common.Query\\Common.Query.csproj|solutionrelative:common.query\\filter\\basefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C375818-760E-4AF9-ABB9-2FB361245F5F}|Shop\\Shop.Api\\Shop.Api.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.api\\viewmodels\\products\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C375818-760E-4AF9-ABB9-2FB361245F5F}|Shop\\Shop.Api\\Shop.Api.csproj|solutionrelative:shop\\shop.api\\viewmodels\\products\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.query\\products\\getbyfilter\\getproductbyfilterquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|solutionrelative:shop\\shop.query\\products\\getbyfilter\\getproductbyfilterquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.query\\products\\getbyfilter\\getproductbyfilterqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8563E099-BB62-473E-904A-E6747115AB7D}|Shop\\Shop.Query\\Shop.Query.csproj|solutionrelative:shop\\shop.query\\products\\getbyfilter\\getproductbyfilterqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|d:\\company_pc\\massive_ecommerceprojects_api\\webapi-massiveproject\\ketabkhoob\\shop\\shop.application\\roles\\create\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1FF612-309E-45D4-925E-DE49E65264B3}|Shop\\Shop.Application\\Shop.Application.csproj|solutionrelative:shop\\shop.application\\roles\\create\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6a22fc8f-6c1e-5388-aa3d-9dc8ddb2d262}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Query\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "Common.Query\\IQueryHandler.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Query\\IQueryHandler.cs",
+              "RelativeToolTip": "Common.Query\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:51:37.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetInventoriesByProductIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Sellers\\Inventories\\GetByProductId\\GetInventoriesByProductIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Query\\Sellers\\Inventories\\GetByProductId\\GetInventoriesByProductIdQueryHandler.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Sellers\\Inventories\\GetByProductId\\GetInventoriesByProductIdQueryHandler.cs",
+              "RelativeToolTip": "Shop\\Shop.Query\\Sellers\\Inventories\\GetByProductId\\GetInventoriesByProductIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:50:44.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetSellerByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Sellers\\GetById\\GetSellerByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Query\\Sellers\\GetById\\GetSellerByIdQueryHandler.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Sellers\\GetById\\GetSellerByIdQueryHandler.cs",
+              "RelativeToolTip": "Shop\\Shop.Query\\Sellers\\GetById\\GetSellerByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:50:39.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\GetById\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Query\\Products\\GetById\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\GetById\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "Shop\\Shop.Query\\Products\\GetById\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:50:27.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\GetById\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Query\\Products\\GetById\\GetProductByIdQuery.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\GetById\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "Shop\\Shop.Query\\Products\\GetById\\GetProductByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:50:25.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SellerInventoryFacade.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Sellers\\Inventories\\SellerInventoryFacade.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Presentation.Facade\\Sellers\\Inventories\\SellerInventoryFacade.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Sellers\\Inventories\\SellerInventoryFacade.cs",
+              "RelativeToolTip": "Shop\\Shop.Presentation.Facade\\Sellers\\Inventories\\SellerInventoryFacade.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:35:37.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISellerInventoryFacade.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Sellers\\Inventories\\ISellerInventoryFacade.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Presentation.Facade\\Sellers\\Inventories\\ISellerInventoryFacade.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Sellers\\Inventories\\ISellerInventoryFacade.cs",
+              "RelativeToolTip": "Shop\\Shop.Presentation.Facade\\Sellers\\Inventories\\ISellerInventoryFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:35:35.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetProductBySlugQueryHandler.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\GetBySlug\\GetProductBySlugQueryHandler.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Query\\Products\\GetBySlug\\GetProductBySlugQueryHandler.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\GetBySlug\\GetProductBySlugQueryHandler.cs",
+              "RelativeToolTip": "Shop\\Shop.Query\\Products\\GetBySlug\\GetProductBySlugQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:25:35.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProductBySlugQuery.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\GetBySlug\\GetProductBySlugQuery.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Query\\Products\\GetBySlug\\GetProductBySlugQuery.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\GetBySlug\\GetProductBySlugQuery.cs",
+              "RelativeToolTip": "Shop\\Shop.Query\\Products\\GetBySlug\\GetProductBySlugQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:25:33.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddChildCategoryHandler.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Categories\\AddChild\\AddChildCategoryHandler.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Application\\Categories\\AddChild\\AddChildCategoryHandler.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Categories\\AddChild\\AddChildCategoryHandler.cs",
+              "RelativeToolTip": "Shop\\Shop.Application\\Categories\\AddChild\\AddChildCategoryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:11:56.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddChildCategoryCommand.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Categories\\AddChild\\AddChildCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Application\\Categories\\AddChild\\AddChildCategoryCommand.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Categories\\AddChild\\AddChildCategoryCommand.cs",
+              "RelativeToolTip": "Shop\\Shop.Application\\Categories\\AddChild\\AddChildCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:11:54.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddChildCategoryCommandValidator.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Categories\\AddChild\\AddChildCategoryCommandValidator.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Application\\Categories\\AddChild\\AddChildCategoryCommandValidator.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Categories\\AddChild\\AddChildCategoryCommandValidator.cs",
+              "RelativeToolTip": "Shop\\Shop.Application\\Categories\\AddChild\\AddChildCategoryCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:11:53.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Shop\\Shop.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:42:32.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductFacade.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Products\\ProductFacade.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Presentation.Facade\\Products\\ProductFacade.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Products\\ProductFacade.cs",
+              "RelativeToolTip": "Shop\\Shop.Presentation.Facade\\Products\\ProductFacade.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:42:50.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Query\\Products\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Shop\\Shop.Query\\Products\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:26:10.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductMapper.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\ProductMapper.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Query\\Products\\ProductMapper.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\ProductMapper.cs",
+              "RelativeToolTip": "Shop\\Shop.Query\\Products\\ProductMapper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:25:45.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Api\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Shop\\Shop.Api\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwFEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:28:13.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddOrderItemCommand.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Orders\\AddItem\\AddOrderItemCommand.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Application\\Orders\\AddItem\\AddOrderItemCommand.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Orders\\AddItem\\AddOrderItemCommand.cs",
+              "RelativeToolTip": "Shop\\Shop.Application\\Orders\\AddItem\\AddOrderItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:25:14.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CheckoutOrderCommand.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Orders\\CheckOut\\CheckoutOrderCommand.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Application\\Orders\\CheckOut\\CheckoutOrderCommand.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Orders\\CheckOut\\CheckoutOrderCommand.cs",
+              "RelativeToolTip": "Shop\\Shop.Application\\Orders\\CheckOut\\CheckoutOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:25:32.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CheckoutOrderCommandHandler.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Orders\\CheckOut\\CheckoutOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Application\\Orders\\CheckOut\\CheckoutOrderCommandHandler.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Orders\\CheckOut\\CheckoutOrderCommandHandler.cs",
+              "RelativeToolTip": "Shop\\Shop.Application\\Orders\\CheckOut\\CheckoutOrderCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:25:33.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddOrderItemCommandHandler.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Orders\\AddItem\\AddOrderItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Application\\Orders\\AddItem\\AddOrderItemCommandHandler.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Orders\\AddItem\\AddOrderItemCommandHandler.cs",
+              "RelativeToolTip": "Shop\\Shop.Application\\Orders\\AddItem\\AddOrderItemCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:25:13.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddProductImageCommand.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Products\\AddImage\\AddProductImageCommand.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Application\\Products\\AddImage\\AddProductImageCommand.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Products\\AddImage\\AddProductImageCommand.cs",
+              "RelativeToolTip": "Shop\\Shop.Application\\Products\\AddImage\\AddProductImageCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:25:06.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddProductImageCommandHandler.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Products\\AddImage\\AddProductImageCommandHandler.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Application\\Products\\AddImage\\AddProductImageCommandHandler.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Products\\AddImage\\AddProductImageCommandHandler.cs",
+              "RelativeToolTip": "Shop\\Shop.Application\\Products\\AddImage\\AddProductImageCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T11:25:05.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Products\\Create\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Application\\Products\\Create\\CreateProductCommand.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Products\\Create\\CreateProductCommand.cs",
+              "RelativeToolTip": "Shop\\Shop.Application\\Products\\Create\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T09:11:24.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Products\\Create\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Application\\Products\\Create\\CreateProductCommandHandler.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Products\\Create\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Shop\\Shop.Application\\Products\\Create\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T08:32:30.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductFacade.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Products\\IProductFacade.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Presentation.Facade\\Products\\IProductFacade.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Presentation.Facade\\Products\\IProductFacade.cs",
+              "RelativeToolTip": "Shop\\Shop.Presentation.Facade\\Products\\IProductFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T08:32:20.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateProductViewModel.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Api\\ViewModels\\Products\\CreateProductViewModel.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Api\\ViewModels\\Products\\CreateProductViewModel.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Api\\ViewModels\\Products\\CreateProductViewModel.cs",
+              "RelativeToolTip": "Shop\\Shop.Api\\ViewModels\\Products\\CreateProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T08:32:01.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseFilter.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Query\\Filter\\BaseFilter.cs",
+              "RelativeDocumentMoniker": "Common.Query\\Filter\\BaseFilter.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Common.Query\\Filter\\BaseFilter.cs",
+              "RelativeToolTip": "Common.Query\\Filter\\BaseFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:47:40.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductFilterParams.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\DTOs\\ProductFilterParams.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Query\\Products\\DTOs\\ProductFilterParams.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\DTOs\\ProductFilterParams.cs",
+              "RelativeToolTip": "Shop\\Shop.Query\\Products\\DTOs\\ProductFilterParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:42:56.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetProductByFilterQueryHandler.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\GetByFilter\\GetProductByFilterQueryHandler.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Query\\Products\\GetByFilter\\GetProductByFilterQueryHandler.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\GetByFilter\\GetProductByFilterQueryHandler.cs",
+              "RelativeToolTip": "Shop\\Shop.Query\\Products\\GetByFilter\\GetProductByFilterQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:41:47.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetProductByFilterQuery.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\GetByFilter\\GetProductByFilterQuery.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Query\\Products\\GetByFilter\\GetProductByFilterQuery.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Query\\Products\\GetByFilter\\GetProductByFilterQuery.cs",
+              "RelativeToolTip": "Shop\\Shop.Query\\Products\\GetByFilter\\GetProductByFilterQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:41:46.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateRoleCommandHandler.cs",
+              "DocumentMoniker": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Roles\\Create\\CreateRoleCommandHandler.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.Application\\Roles\\Create\\CreateRoleCommandHandler.cs",
+              "ToolTip": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Application\\Roles\\Create\\CreateRoleCommandHandler.cs",
+              "RelativeToolTip": "Shop\\Shop.Application\\Roles\\Create\\CreateRoleCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T06:44:01.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

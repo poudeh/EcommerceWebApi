@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Banners\8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Shop.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Shop.Api</BasePath>
+      <RelativePath>images/Banners/8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>j7k5szni9k</Fingerprint>
+      <Integrity>j+350qV/BblIafZhHjLSqd7oTqZ7WSAi2ZRpYwP7jiQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Banners\8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

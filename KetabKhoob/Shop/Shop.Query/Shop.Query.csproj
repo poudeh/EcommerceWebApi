@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Categories\GetById\" />
+    <Folder Include="Comments\DTOs\" />
+    <Folder Include="Comments\GetById\" />
+    <Folder Include="Orders\GetByFilter\" />
+    <Folder Include="Orders\GetCurrent\" />
+    <Folder Include="Roles\GetList\" />
+    <Folder Include="Sellers\DTOs\" />
+    <Folder Include="Sellers\GetById\" />
+    <Folder Include="Sellers\GetByUserId\" />
+    <Folder Include="Sellers\Inventories\GetList\" />
+    <Folder Include="SiteEntities\Banners\GetById\" />
+    <Folder Include="SiteEntities\Banners\GetList\" />
+    <Folder Include="SiteEntities\ShippingMethods\GetList\" />
+    <Folder Include="SiteEntities\Sliders\GetById\" />
+    <Folder Include="Users\Addresses\GetList\" />
+    <Folder Include="Users\GetByPhoneNumber\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common.Query\Common.Query.csproj" />
+    <ProjectReference Include="..\..\Common\Common.Domain\Common.Domain.csproj" />
+    <ProjectReference Include="..\..\Shop.Domain\Shop.Domain.csproj" />
+    <ProjectReference Include="..\Shop.Infrastructure\Shop.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

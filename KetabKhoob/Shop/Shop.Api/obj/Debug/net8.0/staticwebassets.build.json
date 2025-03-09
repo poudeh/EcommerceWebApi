@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "AOKQ4tDgJxz2shm/Pr242Gz2qAqQRI0nGA0Vl/TyhN8=",
+  "Source": "Shop.Api",
+  "BasePath": "_content/Shop.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Shop.Api\\wwwroot",
+      "Source": "Shop.Api",
+      "ContentRoot": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Api\\wwwroot\\",
+      "BasePath": "_content/Shop.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Api\\wwwroot\\images\\Banners\\8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593.png",
+      "SourceId": "Shop.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Api\\wwwroot\\",
+      "BasePath": "_content/Shop.Api",
+      "RelativePath": "images/Banners/8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j7k5szni9k",
+      "Integrity": "j+350qV/BblIafZhHjLSqd7oTqZ7WSAi2ZRpYwP7jiQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Banners\\8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/Banners/8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593.j7k5szni9k.png",
+      "AssetFile": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Api\\wwwroot\\images\\Banners\\8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2515705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j+350qV/BblIafZhHjLSqd7oTqZ7WSAi2ZRpYwP7jiQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 11:52:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j7k5szni9k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Banners/8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j+350qV/BblIafZhHjLSqd7oTqZ7WSAi2ZRpYwP7jiQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Banners/8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593.png",
+      "AssetFile": "D:\\Company_PC\\Massive_EcommerceProjects_Api\\WebApi-MassiveProject\\KetabKhoob\\Shop\\Shop.Api\\wwwroot\\images\\Banners\\8ef19ad3-91a3-42d5-b537-b9680e62d4d41522165165593.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2515705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j+350qV/BblIafZhHjLSqd7oTqZ7WSAi2ZRpYwP7jiQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 11:52:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j+350qV/BblIafZhHjLSqd7oTqZ7WSAi2ZRpYwP7jiQ="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+﻿//Dtos//
+
+
+FilterResult =>  همون بیس فیلتر
+
+BaseFilter => ایتمی که باید نشون بده و مواردی که فیلتر شده است رو میگیره و در یک کلس ذخیره میکنه. که خود بیس فیلتر از یک بیس فیلتر کلی ارث بری میکنه.
+
+
+public class BaseFilter<TData, TParam> : BaseFilter where TParam : BaseFilterParam // Must be derived from BaseFilterParam.
+    where TData : BaseDto // Must be derived from BaseDto.
+{
+    public List<TData> Data { get; set; } // The paginated and filtered data.
+    public TParam FilterParams { get; set; } // The filter parameters.
+}
+======================
+//Filter Query => از مدیاتور ارث بری میکنه
+public class GetCommentByFilterQuery:QueryFilter<CommentFilterResult , CommentFilterParams>
+{
+    public GetCommentByFilterQuery(CommentFilterParams filterParams) : base(filterParams)
+    {
+    }
+}
+فیلتر پارامز رو میگیره و ریسپانسش کوعری فیلتر ریزاتل
+================================
+//Filter Query Handler
+
+public interface IQueryHandler<TQuery, TResponse> : IRequestHandler<TQuery, TResponse>
+    where TQuery : IQuery<TResponse>
+    where TResponse : class?
+{
+
+}
+Related Call to Tquery and the response is TResponse
+
+SELECT TOP(1) 
+    i.Id, 
+    SellerId, 
+    ProductId, 
+    Count, 
+    Price, 
+    i.CreationDate, 
+    DiscountPercentage, 
+    s.ShopName,
+    p.Title AS ProductTitle,
+    p.ImageName AS ProductImage
+FROM [seller].Inventories i
+INNER JOIN [seller].Sellers s ON i.SellerId = s.Id
+INNER JOIN [product].Products p ON i.ProductId = p.Id
+WHERE i.Id = @id;
+
+
+
+//Explanation
+SELECT TOP(1):
+
+Fetches only the first row that matches the criteria.
+Retrieves specific columns: i.Id, SellerId, ProductId, Count, Price, CreationDate, DiscountPercentage, ShopName, ProductTitle, and ProductImage.
+FROM [seller].Inventories i:
+
+Specifies the Inventories table from the [seller] schema as the primary source.
+INNER JOIN [seller].Sellers s ON i.SellerId = s.Id:
+
+Joins the Sellers table on the SellerId field, linking each inventory to its seller.
+INNER JOIN [product].Products p ON i.ProductId = p.Id:
+
+Joins the Products table on the ProductId field, linking each inventory to its product.
+WHERE i.Id = @id:
+
+Filters the result to include only the inventory item with the specific Id provided as a parameter (@id).
+Aliases and Renaming:
+
+i, s, and p are table aliases for Inventories, Sellers, and Products, respectively.
+p.Title AS ProductTitle renames the Title column for better readability.
+
+
+=========================
+Api Helper
+
+
+
+{
+  "isSuccess" =true,
+  "data": [ {} ],
+  "metaData": {
+    "message": "",
+    "AppStatusCode": "" 
+  },
+
+}
+
+
+
+
+
+
+
+
+viewModel is for users.
+-------------------
+Refresh Token:
+How to use Refresh Token:
+1- client Send refresh token to use 
+2- if there is refresh in database that equal to the clients refresh token and expire date of refresh token is valid and token is not valid we Create Again new refresh token 
+and token we delete Previous Tokens.
+
+
+
+!important => For Deleting Main Elements We User Repository but for removing child elements we use Application.
+
+
+
+!important For these project WE Use Dapper Fild Childs and Entity For AggregateRoots.
+
+=================================
+JWT Step By Step:
+
+
+1- Its better To use Refresh Token and save It in database.
+
+2- Check if more than 3 devices Add to this account.
+3- We Use custom jwt it causes instantly without login and logout We know that the user Is Valid or not.
